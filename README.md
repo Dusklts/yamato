@@ -1,0 +1,2 @@
+# yamato
+some idea
